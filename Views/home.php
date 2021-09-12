@@ -39,7 +39,7 @@ $view_tweets = [
     //便利な関数
     //////////
     /**
-     * 画像ファイル名から画像のURLを生成する
+     * 画像ファイル名から画像のURLを生成するds
      * 
      * @param string $name 画像ファイル名
      * @param string $type user | tweet
